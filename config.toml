@@ -13,6 +13,7 @@ defaultContentLanguage = "de"
 author = "FC Aich e.V."
 description = "Offizielle Website des FC Aich e.V. – Fussball im Landkreis Fuerstenfeldbruck"
 logo = "/img/fc-aich-logo.png"
+favicon = "favicon.ico"
 custom_css = ["custom.css"]
 style = "blue"
 date_format = "02.01.2006"
