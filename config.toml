@@ -26,8 +26,8 @@ email = "info@fc-aich.de"
     url  = "/"
     weight = 1
 [[menu.main]]
-    name = "Downloads"
-    url  = "/downloads/"
+    name = "News"
+    url  = "/news/"
     weight = 2
 [[menu.main]]
     name = "Vorstand"
@@ -54,9 +54,13 @@ email = "info@fc-aich.de"
     url  = "/ah/"
     weight = 8
 [[menu.main]]
+    name = "Downloads"
+    url  = "/downloads/"
+    weight = 9
+[[menu.main]]
     name = "Kontakt"
     url  = "/kontakt/"
-    weight = 9
+    weight = 20
 
 [markup.goldmark.renderer]
 unsafe = true
