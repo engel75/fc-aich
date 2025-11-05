@@ -7,7 +7,10 @@ backend:
   base_url: https://sveltia-cms-auth.engel-d67.workers.dev
 
 media_folder: "static/uploads"   # Dateien landen im Repo hier
-public_folder: "/uploads"        # öffentliche URL im Frontend
+public_folder: "/fc-aich/uploads"        # öffentliche URL im Frontend
+
+site_url: "https://engel75.github.io/fc-aich"
+display_url: "https://engel75.github.io/fc-aich"
 
 local_backend: false             # optional; für reine Git-API-Workflows
 
